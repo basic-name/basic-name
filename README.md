@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Little%20Dolls&labelColor=%23000000&countColor=%23000000&style=for-the-badge"
+    src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Friends%20!&labelColor=%23aebac7&countColor=%23cd837a&style=for-the-badge"
     alt="Profile views"
   />
 </p>
 <p align="center">
-<img src="https://i.pinimg.com/736x/bc/ca/c3/bccac3de5433f0fe456ece3cbc2664d6.jpg" alt="photo.jpg" width="500" height="500">
+<img width="342" height="179" alt="healing together" src="https://github.com/user-attachments/assets/a0dc1f75-0feb-42d9-9421-5a8fc1005b70" />
 </p>
 <p align="center">
-no I dont like Q!!!!
+be my friend pls
 </p>
