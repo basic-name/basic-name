@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Friends%20!&labelColor=%23aebac7&countColor=%23cd837a&style=for-the-badge"
+    src="https://api.visitorbadge.io/api/VisitorHit?user=childhoodcomforts&repo=childhoodcomforts&label=Friends%20!&labelColor=%23aebac7&countColor=%23cd837a&style=plastic"
     alt="Profile views"
   />
 </p>
